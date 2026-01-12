@@ -53,7 +53,6 @@
     "dotenv": "^16.4.5",
     "embla-carousel-react": "^8.6.0",
     "esbuild-wasm": "^0.27.2",
-    "esbuild-windows-64": "^0.15.18",
     "express": "^4.21.2",
     "express-session": "^1.18.1",
     "input-otp": "^1.4.2",
